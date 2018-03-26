@@ -1,6 +1,6 @@
 {
   "name": "@knod/flex-button",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Styled react-native button using flex that accepts extra styles",
   "main": "FlexButton.js",
   "peerDependencies": {
